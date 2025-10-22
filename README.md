@@ -19,9 +19,12 @@ Proje, modüler mimarisi ve plugin desteğiyle genişletilebilir bir yapıya sah
    `UstaPlatform.App\bin\Debug\Plugins` klasörüne kopyalayın.  
 5. Uygulamayı çalıştırın.
 
+
+❗ eğer 'UstaPlatform' klasörü gözükmüyorsa Visual Studio ile 'Blank Solution' projesi oluşturun. ismini 'UstaPlatform' koyun. proje dosyalarını Solution'a sağ tıklayıp 'add>>existing project' ile ekleyin. sonra projelere sağ tıklayıp 'add>>reference' ile gerekli referansları ekleyin. programı çalıştıracak olan 'UstaPlatform.sln' dosyası oluştu. daha sonra 'UstaPlatformProjesi' klasöründe tüm proje klasörlerini toplayın, aşağıda yer alan 'Dosya Yapısı' gibi gözükecektir. artık uygulamayı çalıştırabilirsiniz❗
+
 ---
 
-## 🏗️ Mimari Yapı
+## 🏗️ Dosya Yapısı
 
 Proje, **SOLID prensiplerine** uygun olarak çok katmanlı mimari ile tasarlanmıştır:
 
