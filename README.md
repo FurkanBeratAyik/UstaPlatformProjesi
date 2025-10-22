@@ -1,6 +1,6 @@
 # 🧰 UstaPlatform - Şehrin Uzmanlık Platformu
 
-**UstaPlatform**, Yozgat şehrindeki ustaları vatandaş talepleriyle eşleştiren, dinamik fiyatlama ve rota planlaması yapabilen bir programdır.  
+**UstaPlatform**, Yozgat'ın şehrindeki ustaları vatandaş talepleriyle eşleştiren, dinamik fiyatlama ve rota planlaması yapabilen bir programdır.  
 Proje, modüler mimarisi ve plugin desteğiyle genişletilebilir bir yapıya sahiptir.
 
 ---
